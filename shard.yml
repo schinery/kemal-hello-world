@@ -5,3 +5,8 @@ authors:
   - Stuart Chinery <stuart.chinery@headlondon.com>
 
 license: MIT
+
+dependencies:
+  kemal:
+    github: sdogruyol/kemal
+    branch: v0.15.1

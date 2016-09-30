@@ -1,5 +1,10 @@
 require "./kemal-tryout/*"
+require "kemal"
 
 module Kemal::Tryout
-  # TODO Put your code here
+  get "/" do
+    "Hello World!"
+  end
+
+  Kemal.run
 end
