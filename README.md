@@ -1,16 +1,22 @@
-# kemal-tryout
+# Kemal Tryout
 
-TODO: Write a description here
+Demo project for testing both [Crystal](https://crystal-lang.org/) and [Kemal](http://kemalcr.com/).
+
+<!-- MarkdownTOC -->
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Development](#development)
+- [Contributing](#contributing)
+
+<!-- /MarkdownTOC -->
+
 
 ## Installation
 
-
 TODO: Write installation instructions here
 
-
 ## Usage
-
-
 
 TODO: Write usage instructions here
 
@@ -25,8 +31,3 @@ TODO: Write development instructions here
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
-
-## Contributors
-
-- [[your-github-name]](https://github.com/[your-github-name]) Stuart Chinery - creator, maintainer
-# kemal-tryout
