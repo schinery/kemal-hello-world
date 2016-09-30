@@ -6,12 +6,13 @@ Hello World project for testing both [Crystal](https://crystal-lang.org/) and [K
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Development](#development)
 - [Contributing](#contributing)
 
 <!-- /MarkdownTOC -->
 
 ## Installation
+
+Git clone the repo and then run:
 
 ```sh
 shards install
@@ -19,14 +20,12 @@ shards install
 
 ## Usage
 
+To build and start the app run:
+
 ```sh
 crystal build --release src/kemal-hello-world.cr
 ./kemal-hello-world
 ```
-
-## Development
-
-TODO: Write development instructions here
 
 ## Contributing
 
