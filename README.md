@@ -1,6 +1,6 @@
-# Kemal Tryout
+# Kemal Hello World
 
-Demo project for testing both [Crystal](https://crystal-lang.org/) and [Kemal](http://kemalcr.com/).
+Hello World project for testing both [Crystal](https://crystal-lang.org/) and [Kemal](http://kemalcr.com/).
 
 <!-- MarkdownTOC -->
 
@@ -11,14 +11,18 @@ Demo project for testing both [Crystal](https://crystal-lang.org/) and [Kemal](h
 
 <!-- /MarkdownTOC -->
 
-
 ## Installation
 
-TODO: Write installation instructions here
+```sh
+shards install
+```
 
 ## Usage
 
-TODO: Write usage instructions here
+```sh
+crystal build --release src/kemal-hello-world.cr
+./kemal-hello-world
+```
 
 ## Development
 
