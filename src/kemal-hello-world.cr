@@ -1,7 +1,7 @@
-require "./kemal-tryout/*"
+require "./kemal-hello-world/*"
 require "kemal"
 
-module Kemal::Tryout
+module KemalHelloWorld
   get "/" do
     "Hello World!"
   end
